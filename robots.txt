@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chouaib263.github.io/indie-seo-library/sitemap.xml
