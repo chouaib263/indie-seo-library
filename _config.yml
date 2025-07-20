@@ -1,6 +1,6 @@
 title: Indie SEO & Digital Tactics Library
 description: Actionable articles and services for indie developers and migration-minded creators.
 lang: en
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
