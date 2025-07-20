@@ -18,8 +18,8 @@ If you’d like:
 
 Just message me directly:
 
-📮 Email: [add-your-email@example.com]  
-🌐 GitHub Issues tab: [GitHub Repo](https://github.com/YOURUSERNAME/indie-seo-library/issues)
+📮 Email: [zchouaib94@gmail.com](mailto:zchouaib94@gmail.com)  
+🌐 GitHub Issues tab: [GitHub Repo](https://github.com/chouaib263/indie-seo-library/issues)
 
 *If you prefer private contact, email is best. If you want to share suggestions or feedback publicly, use the GitHub Issues tab.*
 
